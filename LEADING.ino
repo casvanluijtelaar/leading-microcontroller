@@ -13,10 +13,10 @@ using namespace std;
 #define HUB_ID 1
 
 // information for connecting to wifi and database
-#define WIFI_SSID "telenet-54A0E"
-#define WIFI_PASSWORD "vmEAmb2NPz0Z"
-#define FIREBASE_HOST "https://masters-341f2-default-rtdb.europe-west1.firebasedatabase.app/"
-#define FIREBASE_AUTH "f8z21FwCEtLzP6QgLFMR5olcnj0IG66xqrfwuQQo"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
+#define FIREBASE_HOST "HOST"
+#define FIREBASE_AUTH "AUTH"
 
 FirebaseData db;
 
